@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+}
+
+.forms {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.titulo {
+  background-color: rgb(37, 133, 98);
+  color: white;
+  padding: 5px;
+  text-align: center;
+}
